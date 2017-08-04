@@ -7,6 +7,11 @@
   color: white;
 }*/
 
+.chart{
+  width: calc(100vw - 200px);
+  height: 100vh;
+}
+
 circle{
   fill: rgb(31,119,180);
   fill-opacity: .25;
